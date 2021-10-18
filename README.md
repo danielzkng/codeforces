@@ -11,3 +11,4 @@ I've solved over 270 problems to date.
 
 Favourite problems:
 
+* https://codeforces.com/contest/1466/problem/D
