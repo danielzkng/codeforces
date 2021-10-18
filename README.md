@@ -11,4 +11,8 @@ I've solved over 270 problems to date.
 
 Favourite problems:
 
-* https://codeforces.com/contest/1466/problem/D
+* Ehab the Xorcist (https://codeforces.com/contest/1325/problem/D)
+* Uncle Bogdan and Country Happiness (https://codeforces.com/contest/1388/problem/C)
+* 13th Labour of Heracles (https://codeforces.com/contest/1466/problem/D)
+* Playlist (https://codeforces.com/contest/1482/problem/D)
+* Higher Order Functions (https://codeforces.com/contest/1578/problem/H)
